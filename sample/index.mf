@@ -1,0 +1,10 @@
+<setting>
+    <tag load="mofron-comp-frame">Frame</tag>
+    <tag load="mofron-layout-flexgrid">FlexGrid</tag>
+</setting>
+
+<div layout=FlexGrid>
+    <Frame></Frame>
+    <Frame></Frame>
+    <Frame></Frame>
+</div>
